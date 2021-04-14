@@ -1,6 +1,7 @@
 # Welcome 👋
 My name is Mark Bruckert and I am a high school student at Crooms Academy.
 
+My Github Profile is a little bit empty, but that is only because I don't have the ability to make many of my projects public.
 
 
 - 🔭 I’m currently working on ...
