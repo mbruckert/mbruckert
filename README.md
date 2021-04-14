@@ -1,7 +1,5 @@
 # Welcome 👋
-My name is Mark Bruckert and I am a high school student at Crooms Academy and will be attending UCF in the fall.
-
-My Github Profile is a little bit empty, but that is only because I don't have the ability to make many of my projects public.
+My name is Mark Bruckert and I am a high school student at Crooms Academy and will be attending UCF in the fall. I build many of my projects using React on the front-end and Node.js on the back-end. When it comes to the interface design of my projects, I utilize Figma (https://www.figma.com/@mark).
 
 
 - 🔭 I’m currently working on ...
