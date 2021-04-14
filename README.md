@@ -15,4 +15,4 @@ I'm currently working on a project called Handheld, which is a no-code mobile ap
 
 **Twitter: [@mark_bruckert](https://twitter.com/Mark_Bruckert)**
 
-**Email: markbruckert1@gmail.com** or **mark@gethandheld.com**
+**Email: markbruckert1@gmail.com**
