@@ -1,5 +1,5 @@
 # Welcome 👋
-My name is Mark Bruckert and I am a UCF Freshman. I build many of my projects using React on the front-end and Node.js on the back-end. When it comes to the design of my projects, I use Figma (https://www.figma.com/@mark).
+My name is Mark Bruckert and I am a student at the University of Central Florida. I build many of my projects using React on the front-end and Node.js on the back-end. When it comes to the design of my projects, I use Figma (https://www.figma.com/@mark).
 
 
 - 🔭 I’m currently working on ...
